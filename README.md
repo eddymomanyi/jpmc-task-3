@@ -1,2 +1,2 @@
-# JPMC Task 3
-Repo for task 3 of JPMC's Forage program
+# Stock Price Monitor
+Dashboard for monitoring major changes in stock prices. Built using Python, React, and TypeScript.
